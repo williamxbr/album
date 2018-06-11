@@ -1,0 +1,14 @@
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\obj\Debug\Eniwine.Album.Copa.Repositorio.csprojAssemblyReference.cache
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\obj\Debug\Eniwine.Album.Copa.Repositorio.csproj.CoreCompileInputs.cache
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\bin\Debug\Eniwine.Album.Copa.Repositorio.dll.config
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\bin\Debug\Eniwine.Album.Copa.Repositorio.dll
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\bin\Debug\Eniwine.Album.Copa.Repositorio.pdb
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\bin\Debug\Eniwine.Album.Copa.Dominio.dll
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\bin\Debug\EntityFramework.dll
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\bin\Debug\Eniwine.Album.Copa.Dominio.pdb
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\bin\Debug\EntityFramework.xml
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\obj\Debug\Eniwine.Album.Copa.Repositorio.csproj.CopyComplete
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\obj\Debug\Eniwine.Album.Copa.Repositorio.dll
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Repositorio\obj\Debug\Eniwine.Album.Copa.Repositorio.pdb

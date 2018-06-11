@@ -1,0 +1,9 @@
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Aplicacao\obj\Debug\Eniwine.Album.Copa.Aplicacao.csprojAssemblyReference.cache
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Aplicacao\obj\Debug\Eniwine.Album.Copa.Aplicacao.csproj.CoreCompileInputs.cache
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Aplicacao\bin\Debug\Eniwine.Album.Copa.Aplicacao.dll
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Aplicacao\bin\Debug\Eniwine.Album.Copa.Aplicacao.pdb
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Aplicacao\bin\Debug\Eniwine.Album.Copa.Dominio.dll
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Aplicacao\bin\Debug\Eniwine.Album.Copa.Dominio.pdb
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Aplicacao\obj\Debug\Eniwine.Album.Copa.Aplicacao.csproj.CopyComplete
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Aplicacao\obj\Debug\Eniwine.Album.Copa.Aplicacao.dll
+D:\Eniwine\Eniwine.Album.Copa\app\Eniwine.Album.Copa.Aplicacao\obj\Debug\Eniwine.Album.Copa.Aplicacao.pdb
