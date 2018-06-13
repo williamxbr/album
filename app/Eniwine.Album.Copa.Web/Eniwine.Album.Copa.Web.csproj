@@ -119,6 +119,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\NinjectWebCommon.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\FigurinhaController.cs" />
     <Compile Include="Controllers\UsuarioController.cs" />
     <Compile Include="Gerenciador\GerenciadorUsuario.cs" />
     <Compile Include="Global.asax.cs">
@@ -148,6 +149,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="css\" />
     <Folder Include="js\" />
+    <Folder Include="Views\Figurinha\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Eniwine.Album.Copa.Aplicacao\Eniwine.Album.Copa.Aplicacao.csproj">
